@@ -1,7 +1,6 @@
 name: cache-node-modules
 
-on: main
-
+on: push
 
 jobs:
   lint:
